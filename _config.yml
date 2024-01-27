@@ -1,0 +1,8 @@
+title: Prime Flight Hub
+description: Prime Flight Hub Repositories
+google_analytics:
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
